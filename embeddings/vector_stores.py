@@ -248,5 +248,5 @@ if __name__ == "__main__":
     # similarity_search_with_scores()
     # metadata_filtering()
     # as_retriever()
-    persist_chroma()
-    # exercise_vector_store_setup()
+    # persist_chroma()
+    exercise_vector_store_setup()

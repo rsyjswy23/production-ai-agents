@@ -16,3 +16,6 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+
+# vector store data
+chroma_db/
